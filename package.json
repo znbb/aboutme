@@ -2,7 +2,7 @@
   "name": "aboutme",
   "version": "0.1.0",
   "private": true,
-  "homepage" "https://znbb.github.io/aboutme/",
+  "homepage": "https://znbb.github.io/aboutme/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
