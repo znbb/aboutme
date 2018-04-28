@@ -18,11 +18,11 @@ class App extends Component {
         <div className="down-arrow">
         <img src={arrow} alt="Scroll" width="50px" />
         </div>
-        <h2 className="heading" id="projects">Projects</h2>
-        <Projects />
         <h2 className="heading" id="about">About</h2>
         <About />
-        <h2 className="heading" id="blog">Blog</h2>
+        <h2 className="heading" id="projects">Projects</h2>
+        <Projects />
+        <h2 className="heading" id="blog">Blogs</h2>
         <Blog />
         <h2 className="heading" id="footer">Contact</h2>
         <Footer />
