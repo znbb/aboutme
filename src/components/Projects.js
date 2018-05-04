@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
-//import mentorme from '../images/mentorme.png'
-import BlogImg from '../images/blog.png'
+import mentorme from '../images/mentorme.png'
 
 class Projects extends Component {
   render() {
     return (
       <div className="Projects section flex-container">
         <div className="item">
-          <img src={BlogImg} className="thumb"/>
+          <img src={mentorme} className="thumb"/>
           <div className="overlay">
             <div className="text">
               <h3>Mentor.Me</h3>
