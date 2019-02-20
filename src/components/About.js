@@ -14,9 +14,9 @@ class About extends Component {
             		<br></br>
             		<li>Experience with CI/CD and project management frameworks/tools</li>
             		<br></br>
-            		<li>Worked within a co-located scrum team</li>
+            		<li>Actively worked within a co-located scrum team</li>
                 <br></br>
-            		<li>Gave a range of presentations, including feature demos with over 100 participants</li>
+            		<li>Presented feature demos with for an audience of 100</li>
                 <br></br>
             		<li>Participated in on-site training in Docker & Agile</li>
             	</ul>	
@@ -53,9 +53,9 @@ class About extends Component {
           <h1>Mobile Engineer Intern</h1>
             <p>A local start up company which developed mobile applications and course material 
             	<ul>
-            		<li>Android development and release of apps into play store</li>
+            		<li>Developed Android applications and managed their release to the Play Store</li>
             		<br></br>
-            		<li>Implementation of APIs e.g Facebook and Google Analytics</li>
+            		<li>Integration with third party APIs e.g Facebook and Google Analytics</li>
             		<br></br>
             		<li>CMS website design</li>
             		<br></br>
