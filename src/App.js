@@ -10,6 +10,10 @@ import Blog from './components/Blog'
 import './App.css';
 
 class App extends Component {
+  constructor() {
+    super();
+    initializeReactGA();
+  }
   render() {
     return (
       <div className="App">
@@ -28,7 +32,6 @@ class App extends Component {
         <Footer />
       </div>
     );
-    initializeReactGA();
   }
 }
 
