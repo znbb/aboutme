@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ReactGA from 'react-ga';
 import About from './components/About'
 import NavBar from './components/NavBar'
 import Footer from './components/Footer'
@@ -28,6 +29,11 @@ class App extends Component {
       </div>
     );
   }
+}
+
+function initializeReactGA() {
+  ReactGA.initialize('UA-135010858-1');
+  ReactGA.pageview('/aboutme');
 }
 
 export default App;
